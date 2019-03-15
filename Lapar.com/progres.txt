@@ -1,0 +1,3 @@
+judul website: LAPER
+kategori : Makanan, Minuman, Fashion
+navbar: kategori, profil : (pesan, edit akun, wishlist, notiv, kaluar), pencarian, logo, ulasan, report, 
